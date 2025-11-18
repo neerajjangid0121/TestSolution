@@ -4,7 +4,7 @@
   or whitespace. In addition to actual entity logical names, you can specify regex expressions such as ^new_\\S*$ to include entities with 
   logical names that match the regex expression. You can also specify a wildcard (*). Defaults to no entities.
   */
-  "entitiesToInclude": "systemuser businessunit account contact customeraddress ^new_\\S*$",
+  "entitiesToInclude": "systemuser businessunit account contact",
 
   /*
   entitiesToExclude - an optional list of entity logical names to specifically exclude. Multiple name separation, regex, and wildcard usage as above.
@@ -16,7 +16,7 @@
   actionsToInclude - an optional list of Sdk message names to include in the proxy generation. Multiple name separation, regex, and wildcard usage 
   as above. Defaults to no Sdk message names.
   */
-  "actionsToInclude": "new_actionname",
+  "actionsToInclude": "",
 
   /*
   actionsToExclude - an optional list of Sdk message names to specifically exclude. Multiple name separation, regex, and wildcard usage as above.
@@ -32,12 +32,12 @@
   /*
   outputPath - optional output path, relative to proxies.json file locatin, for generated proxy class files. Defaults to Proxies.
   */
-  "outputPath": "Proxies",
+  "outputPath": "..\\Shared.Proxies",
 
   /*
   classNamespace - optional code namespace to use for generated proxies. Defaults to Proxy.
   */
-  "classNamespace": "Proxy",
+  "classNamespace": "Shared.Proxies",
 
   /*
   targetEndPoint - optional instruction directing which api endpoint to reference when downloading metadata from CDS. Defaults to OrganizationService.
