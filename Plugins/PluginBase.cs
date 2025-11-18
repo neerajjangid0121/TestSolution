@@ -1,4 +1,4 @@
-﻿namespace JDXPlugins
+﻿namespace TestSolutionPlugins
 {
     using CCLLC.CDS.Sdk;
     using CCLLC.Core;

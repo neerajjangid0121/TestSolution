@@ -284,5 +284,3 @@ if($settings.DocumentTemplates `
         $crmConnection = Get-CrmConnection @crmConnectionParameters
         Import-DocumentTemplates -Conn @crmConnection -TemplateDirectory $path
 }
-
-
