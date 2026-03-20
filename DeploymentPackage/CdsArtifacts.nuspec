@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0"?>
 <package>
   <metadata minClientVersion="3.3.0">
-    <id>IIC.Cds.TestSolution.Sources</id>
+    <id>IIC.Cds.AeroSuiteARPAIIntegration.Sources</id>
     <version>$version$</version>
-    <description>CDS dependency artifacts for the TestSolution solution.</description>
+    <description>CDS dependency artifacts for the AeroSuiteARPAIIntegration solution.</description>
     <authors>In Time Tec</authors>
     <owners>Idaho Industrial Commission</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>    

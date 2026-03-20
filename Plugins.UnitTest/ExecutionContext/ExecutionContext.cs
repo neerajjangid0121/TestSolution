@@ -2,7 +2,7 @@
 using Microsoft.Xrm.Sdk;
 using CCLLC.Core;
 
-namespace TestSolutionPlugins.UnitTest.ExecutionContext
+namespace AeroSuiteARPAIIntegrationPlugins.UnitTest.ExecutionContext
 {
     public class Context : IProcessExecutionContext
     {

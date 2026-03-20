@@ -1,7 +1,7 @@
 ﻿using DLaB.Xrm.Test;
 using Microsoft.Xrm.Sdk;
 
-namespace TestSolutionPlugins.UnitTest.Builders
+namespace AeroSuiteARPAIIntegrationPlugins.UnitTest.Builders
 {
     public abstract class EntityBuilder<TEntity> : DLaB.Xrm.Test.Builders.DLaBEntityBuilder<TEntity, EntityBuilder<TEntity>> where TEntity : Entity, new()
     {       

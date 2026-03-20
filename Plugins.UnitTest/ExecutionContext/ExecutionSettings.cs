@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using CCLLC.Core;
 
-namespace TestSolutionPlugins.UnitTest.ExecutionContext
+namespace AeroSuiteARPAIIntegrationPlugins.UnitTest.ExecutionContext
 {
     public class FakeExecutionSettings : ISettingsProvider
     {

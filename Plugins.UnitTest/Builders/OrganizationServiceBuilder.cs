@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.Xrm.Sdk;
 
 
-namespace TestSolutionPlugins.UnitTest.Builders
+namespace AeroSuiteARPAIIntegrationPlugins.UnitTest.Builders
 {
     public class OrganizationServiceBuilder : DLaB.Xrm.Test.Builders.OrganizationServiceBuilderBase<OrganizationServiceBuilder>
     {

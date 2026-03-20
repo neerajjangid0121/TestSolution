@@ -3,7 +3,7 @@ using DLaB.Xrm.Client;
 using Microsoft.Xrm.Sdk;
 
 
-namespace TestSolutionPlugins.UnitTest
+namespace AeroSuiteARPAIIntegrationPlugins.UnitTest
 {
     using Builders;
     using Shared.Proxies;

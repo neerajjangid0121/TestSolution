@@ -1,4 +1,4 @@
-﻿namespace TestSolutionPlugins.UnitTest.Builders
+﻿namespace AeroSuiteARPAIIntegrationPlugins.UnitTest.Builders
 {
     /// <summary>
     /// Class to simplify the simplest cases of creating entities without changing the defaults.

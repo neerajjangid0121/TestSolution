@@ -3,7 +3,7 @@ using Microsoft.Xrm.Sdk;
 using CCLLC.Core;
 using Microsoft.Xrm.Sdk.Query;
 
-namespace TestSolutionPlugins.UnitTest.ExecutionContext
+namespace AeroSuiteARPAIIntegrationPlugins.UnitTest.ExecutionContext
 {
     public class EnhancedOrgService : IDataService, IOrganizationService
     {

@@ -18,7 +18,7 @@
         "profile": "default,debug",
         "assemblypath": "bin\\Debug",
         "excludePluginSteps": false,
-        "solution": "TestSolution"
+        "solution": "AeroSuiteARPAIIntegration"
       }
     ],
     "earlyboundtypes": [
@@ -72,7 +72,7 @@
             /*
             The unique name of the solution to extract, unpack, pack and import
             */
-            "solution_uniquename": "TestSolution",
+            "solution_uniquename": "AeroSuiteARPAIIntegration",
             /*
             The relative folder path to store the extracted solution metadata xml files
             */

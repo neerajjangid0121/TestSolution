@@ -14,7 +14,7 @@
 ## 8. Switch to “Folder View” in Visual Studio
 ## 9. Using Visual Studio, setup the template with the Cds Solution name
     - Open Search/Replace tool (Ctrl-H).
-    - Enter TestSolution into the search box (top field in the Search/Replace tool.
+    - Enter AeroSuiteARPAIIntegration into the search box (top field in the Search/Replace tool.
     - Enter the new Cds Solution name in the replace box (bottom field in the Search/Replace tool.) ex: "IRISCore"
     - Set search to Match Case.
     - Change scope to Entire Solution.
@@ -23,7 +23,7 @@
     - Note 13 replacements when search/replace is finished.
 ## 10. Using Visual Studio, setup the plugin project
     - Open Search/Replace tool (Ctrl-H).
-    - Enter TestSolutionPlugins into the search box (top field in the Search/Replace tool.)
+    - Enter AeroSuiteARPAIIntegrationPlugins into the search box (top field in the Search/Replace tool.)
     - Enter an assembly name based on the new Cds Solution name in the replace box (bottom field in the Search/Replace tool.) ex: "IRISCorePlugins"
     - Set search to Match Case.
     - Change scope to Entire Solution.

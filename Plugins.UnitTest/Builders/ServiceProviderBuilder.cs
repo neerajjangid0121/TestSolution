@@ -1,7 +1,7 @@
 ﻿using DLaB.Xrm.Test;
 using Microsoft.Xrm.Sdk;
 
-namespace TestSolutionPlugins.UnitTest.Builders
+namespace AeroSuiteARPAIIntegrationPlugins.UnitTest.Builders
 {
     public class ServiceProviderBuilder : DLaB.Xrm.Test.Builders.ServiceProviderBuilderBase<ServiceProviderBuilder>
     {

@@ -21,7 +21,7 @@ namespace DeploymentPackage
         /// <returns></returns>
         public override string GetNameOfImport(bool plural)
         {
-            return "Cds TestSolution Package";
+            return "Cds AeroSuiteARPAIIntegration Package";
         }
 
         /// <summary>
@@ -42,7 +42,7 @@ namespace DeploymentPackage
         /// </summary>
         public override string GetImportPackageDescriptionText
         {
-            get { return "Installs Cds TestSolution package including dependency solutions and configuration data."; }
+            get { return "Installs Cds AeroSuiteARPAIIntegration package including dependency solutions and configuration data."; }
         }
 
         /// <summary>
@@ -50,7 +50,7 @@ namespace DeploymentPackage
         /// </summary>
         public override string GetLongNameOfImport
         {
-            get { return "Cds TestSolution Package"; }
+            get { return "Cds AeroSuiteARPAIIntegration Package"; }
         }
 
 

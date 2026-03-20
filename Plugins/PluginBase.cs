@@ -1,4 +1,4 @@
-﻿namespace TestSolutionPlugins
+﻿namespace AeroSuiteARPAIIntegrationPlugins
 {
     using CCLLC.CDS.Sdk;
     using CCLLC.Core;

@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Mapping>
-  <FileToFile map="PluginAssemblies\**\TestSolutionPlugins.dll" to="..\..\Plugins\bin\**\TestSolutionPlugins.dll" />  
+  <FileToFile map="PluginAssemblies\**\AeroSuiteARPAIIntegrationPlugins.dll" to="..\..\Plugins\bin\**\AeroSuiteARPAIIntegrationPlugins.dll" />  
 </Mapping>

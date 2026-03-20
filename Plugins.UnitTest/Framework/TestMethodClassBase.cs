@@ -3,7 +3,7 @@ using DLaB.Xrm.Test.Builders;
 using Microsoft.Xrm.Sdk;
 using CCLLC.Core;
 
-namespace TestSolutionPlugins.UnitTest
+namespace AeroSuiteARPAIIntegrationPlugins.UnitTest
 {
     using Builders;
 

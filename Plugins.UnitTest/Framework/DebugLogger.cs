@@ -1,4 +1,4 @@
-﻿namespace TestSolutionPlugins.UnitTest
+﻿namespace AeroSuiteARPAIIntegrationPlugins.UnitTest
 {
     using DLaB.Xrm.Test;
     using System.Diagnostics;

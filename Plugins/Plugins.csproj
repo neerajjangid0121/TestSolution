@@ -7,8 +7,8 @@
     <ProjectGuid>{A9AEDD78-EDB8-4357-BCD7-F4888F1BE1B9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PluginAssemblyName</RootNamespace>
-    <AssemblyName>PluginAssemblyName</AssemblyName>
+    <RootNamespace>AeroSuiteARPAIIntegrationPlugins</RootNamespace>
+    <AssemblyName>AeroSuiteARPAIIntegrationPlugins</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.Xrm.Sdk;
 using Microsoft.Xrm.Sdk.Query;
 
-namespace TestSolutionPlugins.UnitTest
+namespace AeroSuiteARPAIIntegrationPlugins.UnitTest
 {
     /// <summary>
     /// Applies pre-processing steps prior to an IOrganizationService method call.
